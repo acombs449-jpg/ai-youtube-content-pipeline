@@ -1,0 +1,16 @@
+.env
+client_secret.json
+token.json
+token.json.bak
+token.json.prev_bak
+__pycache__/
+*.pyc
+output/
+work/
+.venv/
+logs/
+
+# Local run data (spend logs, analytics caches, weekly reports)
+usage.jsonl
+retention_cache.json
+reports/
